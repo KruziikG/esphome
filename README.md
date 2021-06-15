@@ -1,13 +1,4 @@
-# ESPHome [![Build Status](https://travis-ci.org/esphome/esphome.svg?branch=master)](https://travis-ci.org/esphome/esphome) [![Discord Chat](https://img.shields.io/discord/429907082951524364.svg)](https://discord.gg/KhAMKrd) [![GitHub release](https://img.shields.io/github/release/esphome/esphome.svg)](https://GitHub.com/esphome/esphome/releases/)
-
-[![ESPHome Logo](https://esphome.io/_images/logo-text.png)](https://esphome.io/)
-
-**Documentation:** https://esphome.io/
-
-For issues, please go to [the issue tracker](https://github.com/esphome/issues/issues).
-
-For feature requests, please see [feature requests](https://github.com/esphome/feature-requests/issues).
--------------
+# Forked from [ESPHome](https://github.com/esphome) 
 # DDSU6606 for ESPHOME
 
 此项目增加了对DDSU6606电能表的支持。按照正常操作，DDSU6606的支持应该作为External Components来弄的，但是ESPHOME说明文档对于这个功能没有详细说明，碰到了bug，就没有继续弄，简单起见，直接把对DDSU6606的支持增加到了ESPHOME内置的传感器中了。
