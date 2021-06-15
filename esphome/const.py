@@ -738,7 +738,9 @@ UNIT_VOLT_AMPS = "VA"
 UNIT_VOLT_AMPS_REACTIVE = "VAR"
 UNIT_VOLT_AMPS_REACTIVE_HOURS = "VARh"
 UNIT_WATT = "W"
+UNIT_KILO_WATT = "kW"
 UNIT_WATT_HOURS = "Wh"
+UNIT_KILO_WATT_HOURS = "kWh"
 
 # device classes of binary_sensor component
 DEVICE_CLASS_BATTERY_CHARGING = "battery_charging"
