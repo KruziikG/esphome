@@ -123,3 +123,7 @@ tests/build/
 tests/.esphome/
 /.temp-clang-tidy.cpp
 .pio/
+
+dl_ddsu6606.yaml
+dl_ddsu6606/
+
